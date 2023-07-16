@@ -13,3 +13,7 @@
 ### Tech Stack
 
 1. PHP (Laravel) + sail ( develop onlny)
+   - https://laravel.com/docs/10.x/sail
+
+2. Mock up tool
+   - https://jdittrich.github.io/quickMockup/
